@@ -15,7 +15,7 @@
     -ie --inline-exports Write imports inline
     -o is followed by an output file name
 
-### For help please contact:
+### For help please contact the author to republish original:
     Rick Battagline
     rick@battagline.com
     Twitter: @battagline
